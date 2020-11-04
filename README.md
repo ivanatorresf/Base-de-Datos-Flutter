@@ -1,2 +1,3 @@
-# Base de Datos Flutter
- guarda informacion en una base de datos con flutter
+# Todo App
+
+Just another Todo App, used for playground.
